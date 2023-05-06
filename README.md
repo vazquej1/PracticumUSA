@@ -1,2 +1,3 @@
 # PracticumUSA
-All projects completed during Practicum Bootcamp.
+Some projects completed during Practicum Bootcamp. These projects were reviewed and approved by Practicum staff.
+
